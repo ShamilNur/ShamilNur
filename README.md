@@ -1,8 +1,8 @@
 # Hello, I'm Shamil Nurkaev 👋
 
-![Java](https://img.shields.io/badge/Java-Expert-orange)
-![Python](https://img.shields.io/badge/Python-Intermidiate-orange)
-![SQL](https://img.shields.io/badge/SQL-Expert-orange)
+![Java](https://img.shields.io/badge/Java-Expert-blue)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![SQL](https://img.shields.io/badge/SQL-Expert-blue)
 
 Software Engineer student at [Kazan Federal University](https://kpfu.ru/itis/).
 Student with passion for ML and Analytics, Java and Python Programming. Fascinated by everything that's DS related. Proudly from Kazan, Russia.
