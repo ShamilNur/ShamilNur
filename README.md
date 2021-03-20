@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Shamil Nurkaev 👋
 
-<!--
-**ShamilNur/ShamilNur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/Java-Expert-orange)
+![Python](https://img.shields.io/badge/Python-Intermidiate-orange)
+![SQL](https://img.shields.io/badge/SQL-Expert-orange)
+![Scala](https://img.shields.io/badge/Spark&Scala-Intermediate-blue)
 
-Here are some ideas to get you started:
+Software Engineer student at [Kazan Federal University](https://kpfu.ru/itis/).
+Student with passion for ML and Analytics, Java, Python Programming. Fascinated by everything that's DS related. Proudly from Kazan, Russia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### BIO
+
+#### Software Engineering
+- 🔭 I'm currently studying **** at [ITIS Kazan Federal University](https://kpfu.ru/itis/)
+- 🌱 I'm currently learning **Spring Framework Java** and **Spring Modules** at [Java Lab](https://vk.com/itis_java_lab/)
+- ⚙️ Mastering: `.java`
+
+#### Data Science
+- 🔭 I'm currently studying **Deep Learning** at [Deep Learning School](https://www.dlschool.org/) and **Data Science Course** at [Sber IT School](https://sberitschool.ru/)
+- 🌱 I'm currently learning **mathematics statistics** and **Data Mining** at [Data Laboratory in my faculty](https://datalaboratory.one/about-me/)
+- ⚙️ Mastering: `.py`
