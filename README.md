@@ -6,7 +6,7 @@
 ![Scala](https://img.shields.io/badge/Spark&Scala-Intermediate-blue)
 
 Software Engineer student at [Kazan Federal University](https://kpfu.ru/itis/).
-Student with passion for ML and Analytics, Java, Python Programming. Fascinated by everything that's DS related. Proudly from Kazan, Russia
+Student with passion for ML and Analytics, Java and Python Programming. Fascinated by everything that's DS related. Proudly from Kazan, Russia.
 
 ### BIO
 
