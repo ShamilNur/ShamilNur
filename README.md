@@ -21,6 +21,6 @@ Student with passion for ML and Analytics, Java and Python Programming. Fascinat
 
 ### 📧 Get in Touch
 
-[![My Telegram](https://img.shields.io/badge/-My%20telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nshamil) [![nurkaievs@mail.ru](https://img.shields.io/badge/my_email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](nurkaievs@mail.ru) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shamil-nurkaev-95501220a)
+[![My Telegram](https://img.shields.io/badge/-My%20telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nshamil) [![nurkaievs@mail.ru](https://img.shields.io/badge/my_email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](nurkaievs@mail.ru) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamil-nurkaev-95501220a)
 
 ### 📚 Looking for my CV? E-Mail me!
