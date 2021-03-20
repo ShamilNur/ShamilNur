@@ -1,6 +1,6 @@
 # Hello, I'm Shamil Nurkaev 👋
 
-![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=orange)
+![Java](https://img.shields.io/badge/Java-Expert-blue?logo=java&logoColor=orange)
 ![Spring](https://img.shields.io/badge/Spring-Intermediate-green)
 ![Python](https://img.shields.io/badge/Python-Intermediate-green)
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue)
