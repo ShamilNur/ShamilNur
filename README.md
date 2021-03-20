@@ -18,3 +18,9 @@ Student with passion for ML and Analytics, Java and Python Programming. Fascinat
 - 🔭 I'm currently studying **Deep Learning** at [Deep Learning School](https://www.dlschool.org/) and **Data Science Course** at [Sber IT School](https://sberitschool.ru/)
 - 🌱 I'm currently learning **mathematics statistics** and **Data Mining** at [ITIS Data Laboratory](https://datalaboratory.one/about-me/)
 - ⚙️ Mastering: `.py`
+
+### 📧 Get in Touch
+
+[![My Telegram](https://img.shields.io/badge/-My%20telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nshamil) [![nurkaievs@mail.ru](https://img.shields.io/badge/my_email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:nurkaievs@mail.ru) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shamil-nurkaev-95501220a/)
+
+### 📚 Looking for my CV? E-Mail me!
