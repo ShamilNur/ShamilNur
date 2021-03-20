@@ -1,9 +1,9 @@
 # Hello, I'm Shamil Nurkaev 👋
 
 ![Java](https://img.shields.io/badge/Java-Expert-blue?logo=java&logoColor=orange)
-![Spring](https://img.shields.io/badge/Spring-Intermediate-green)
-![Python](https://img.shields.io/badge/Python-Intermediate-green)
-![SQL](https://img.shields.io/badge/SQL-Expert-blue)
+![Spring](https://img.shields.io/badge/Spring-Intermediate-green?logo=spring&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-Intermediate-green?logo=python&logoColor=orange)
+![SQL](https://img.shields.io/badge/SQL-Expert-blue?logo=sql&logoColor=orange)
 
 Software Engineer student at [ITIS Kazan Federal University](https://kpfu.ru/itis/).
 Student with passion for ML and Analytics, Java and Python Programming. Fascinated by everything that's DS related. Proudly from Kazan, Russia.
