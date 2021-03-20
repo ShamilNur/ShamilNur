@@ -1,7 +1,7 @@
 # Hello, I'm Shamil Nurkaev 👋
 
 ![Java](https://img.shields.io/badge/Java-Expert-blue)
-![Python](https://img.shields.io/badge/Python-UpperIntermediate-green)
+![Python](https://img.shields.io/badge/Python-Intermediate-green)
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue)
 
 Software Engineer student at [Kazan Federal University](https://kpfu.ru/itis/).
