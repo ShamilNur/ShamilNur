@@ -15,7 +15,7 @@ Student with passion for ML and Analytics, Java and Python Programming. Fascinat
 - ⚙️ Mastering: `.java`
 
 #### Data Science
-- 🔭 I'm currently studying **Deep Learning** at [Deep Learning School](https://www.dlschool.org/) and **Data Science Course** at [Sber IT School](https://sberitschool.ru/)
+- 🔭 I'm currently studying **Data Science Course** at [Sber IT School](https://sberitschool.ru/) and **Deep Learning** at [Deep Learning School](https://www.dlschool.org/)
 - 🌱 I'm currently learning **mathematics statistics** and **Data Mining** at [ITIS Data Laboratory](https://datalaboratory.one/about-me/)
 - ⚙️ Mastering: `.py`
 
