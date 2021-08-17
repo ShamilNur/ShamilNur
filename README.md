@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-green?logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue?logo=sql&logoColor=orange)
 
-Software Engineer student at [ITIS Kazan Federal University](https://kpfu.ru/itis/).
+Software Engineer student at [**ITIS Kazan Federal University**](https://kpfu.ru/itis/).
 Student with passion for ML and Analytics, Java and Python Programming. Fascinated by everything that's DS related. Proudly from Kazan, Russia.
 
 ### BIO
@@ -17,7 +17,7 @@ Student with passion for ML and Analytics, Java and Python Programming. Fascinat
 - ⚙️ Mastering: `.py`
 
 #### Software Engineering
-- 🌱 I studied Java programming for 2 years at [ITIS JavaLab](https://vk.com/itis_java_lab/). Now I can make a backend using technologies: **Spring Framework Java** and **Spring Modules**
+- 🌱 I studied Java programming for 2 years at [**ITIS JavaLab**](https://vk.com/itis_java_lab/). Now I can make a backend using technologies: **Spring Framework Java** and **Spring Modules**
 - ⚙️ Mastering: `.java`
 
 ### 📧 Get in Touch
