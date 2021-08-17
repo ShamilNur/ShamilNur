@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-Expert-blue?logo=java&logoColor=orange)
 ![Spring](https://img.shields.io/badge/Spring-Intermediate-green?logo=spring&logoColor=green)
-
 ![Python](https://img.shields.io/badge/Python-Intermediate-green?logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue?logo=sql&logoColor=orange)
 
