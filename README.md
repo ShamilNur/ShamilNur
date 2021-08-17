@@ -12,7 +12,7 @@ Student with passion for ML and Analytics, Java and Python Programming. Fascinat
 ### BIO
 
 #### Data Science
-- 🔭 I'm currently studying **Data Science Course** at [MTS.Teta summer school](https://www.teta.mts.ru/) and **Deep Learning** at [Deep Learning School](https://www.dlschool.org/)
+- 🔭 I'm currently studying **Data Science Course** at [**MTS.Teta summer school**](https://www.teta.mts.ru/) and **Deep Learning**
 - 🌱 I'm currently learning **Computer Vision** and **NLP** at [**Deep Learning School**](https://www.dlschool.org/)
 - ⚙️ Mastering: `.py`
 
