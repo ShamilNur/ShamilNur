@@ -2,6 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-Expert-blue?logo=java&logoColor=orange)
 ![Spring](https://img.shields.io/badge/Spring-Intermediate-green?logo=spring&logoColor=green)
+
 ![Python](https://img.shields.io/badge/Python-Intermediate-green?logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue?logo=sql&logoColor=orange)
 
@@ -10,14 +11,14 @@ Student with passion for ML and Analytics, Java and Python Programming. Fascinat
 
 ### BIO
 
-#### Software Engineering
-- 🌱 I'm currently learning **Spring Framework Java** and **Spring Modules** at [ITIS JavaLab](https://vk.com/itis_java_lab/)
-- ⚙️ Mastering: `.java`
-
 #### Data Science
-- 🔭 I'm currently studying **Data Science Course** at [Sber IT School](https://sberitschool.ru/) and **Deep Learning** at [Deep Learning School](https://www.dlschool.org/)
-- 🌱 I'm currently learning **mathematics statistics** and **Data Mining** at [ITIS Data Laboratory](https://datalaboratory.one/about-me/)
+- 🔭 I'm currently studying **Data Science Course** at [MTS.Teta summer school](https://www.teta.mts.ru/) and **Deep Learning** at [Deep Learning School](https://www.dlschool.org/)
+- 🌱 I'm currently learning **Computer Vision** and **NLP** at [**Deep Learning School**](https://www.dlschool.org/)
 - ⚙️ Mastering: `.py`
+
+#### Software Engineering
+- 🌱 I studied Java programming for 2 years at [ITIS JavaLab](https://vk.com/itis_java_lab/). Now I can make a backend using technologies: **Spring Framework Java** and **Spring Modules**
+- ⚙️ Mastering: `.java`
 
 ### 📧 Get in Touch
 
