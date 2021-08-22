@@ -1,23 +1,32 @@
-## Hello, I'm Shamil Nurkaev. I'm a future ML Engineer. 👋
+# Hello, I'm Shamil Nurkaev 🦖
 
-![Java](https://img.shields.io/badge/Java-Expert-blue?logo=java&logoColor=orange)
-![Spring](https://img.shields.io/badge/Spring-Intermediate-green?logo=spring&logoColor=green)
-![Python](https://img.shields.io/badge/Python-Intermediate-green?logo=python&logoColor=yellow)
-![SQL](https://img.shields.io/badge/SQL-Expert-blue?logo=sql&logoColor=orange)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/62756126/130355385-4dd3c88d-98df-4ec5-b2ef-6c80c71a6293.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/62756126/130355335-9bef6168-ce9c-4599-a303-471e0174ef6b.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/62756126/130355955-605a457b-f965-4d9b-99ad-1b2f0d2f2d6b.png"></code>
 
-Software Engineer student at [**ITIS Kazan Federal University**](https://kpfu.ru/itis/).
-Student with passion for ML and Analytics, Java and Python Programming. Fascinated by everything that's DS related. Proudly from Kazan, Russia.
+---
 
-### BIO
+## 🌱 About Me
+
+
+Software Engineer student at [**ITIS KFU**](https://kpfu.ru/itis/). Student with passion for ML and Analytics, Java and Python Programming. Fascinated by everything that's DS related. Proudly from Kazan, Russia.
+
+### 🎓 Education
 
 #### Data Science
-- 🔭 I'm currently studying **Data Science Course** at [**MTS.Teta summer school**](https://www.teta.mts.ru/) and **Deep Learning**
-- 🌱 I'm currently learning **Computer Vision** and **NLP** at [**Deep Learning School**](https://www.dlschool.org/)
-- ⚙️ Mastering: `.py`
+- 🔭 [**MTS.Teta summer school**](https://www.teta.mts.ru/) student
+- 🔰 Currently studying **NLP** at [**Deep Learning School**](https://www.dlschool.org/)
+- ⚙ Mastering: `.py` 
 
 #### Software Engineering
-- 🌱 I studied Java programming for 2 years at [**ITIS JavaLab**](https://vk.com/itis_java_lab/). Now I can make a backend using technologies: **Spring Framework Java** and **Spring Modules**
-- ⚙️ Mastering: `.java`
+- 🔱 Java development using **Spring Framework & Java EE** at [**ITIS JavaLab**](https://vk.com/itis_java_lab/)
+- ⚙ Mastering: `.java`
+
+<!-- #### BIO -->
+
+
 
 ### 📧 Get in Touch
 
@@ -25,4 +34,5 @@ Student with passion for ML and Analytics, Java and Python Programming. Fascinat
 
 ### 📚 Looking for my CV? E-Mail me!
 
-![image](https://user-images.githubusercontent.com/62756126/129653302-015b2ec3-df8d-4f40-85eb-9e3d5a0dbb0c.png)
+<img src="https://user-images.githubusercontent.com/62756126/129653302-015b2ec3-df8d-4f40-85eb-9e3d5a0dbb0c.png" alt="drawing" width="650"/>
+
