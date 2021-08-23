@@ -1,4 +1,4 @@
-# Hello, I'm Shamil Nurkaev 🦖
+# Hello 🦖
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/62756126/130355385-4dd3c88d-98df-4ec5-b2ef-6c80c71a6293.png"></code>
