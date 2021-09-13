@@ -1,7 +1,7 @@
 ## 🌱 About Me
 
 
-Software Engineer student at [**ITIS KFU**](https://kpfu.ru/itis/) with passion for ML and Analytics, Python and Java Programming. Fascinated by everything that's DS related. Proudly from Kazan, Russia.
+Software Engineer student at [**ITIS KFU**](https://kpfu.ru/itis/) with passion for ML and Analytics, Python and Java programming. Fascinated by everything that's DS related. Proudly from Kazan, Russia.
 
 ### 🎓 Education
 
