@@ -33,5 +33,3 @@ Software Engineer student at [**ITIS KFU**](https://kpfu.ru/itis/) with passion 
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfnurkaev)
 
 ### 📚 Looking for my CV? E-Mail me!
-
-<img src="https://user-images.githubusercontent.com/62756126/129653302-015b2ec3-df8d-4f40-85eb-9e3d5a0dbb0c.png" alt="drawing" width="650"/>
