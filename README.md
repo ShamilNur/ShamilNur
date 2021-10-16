@@ -7,14 +7,14 @@ Software Engineer student at [**ITIS KFU**](https://kpfu.ru/itis/) with passion 
 
 #### Data Science & Software Engineering
 
-- 🙋🏻‍♂️ Currently go to [**Academy MADE Mail.ru Group**](https://data.mail.ru/pages/about/)
+- 🙋🏻‍♂️ Currently go to [**Academy MADE VK**](https://data.vk.company/pages/about/)
 - 👨‍🏫 Third-year bachelor in software engineering @ [**ITIS Kazan Federal University**](https://kpfu.ru/itis/)
 - ⚙ `.java` development using **Spring Framework & Java EE** @ [**ITIS Java Laboratory**](https://vk.com/itis_java_lab/)
 
 
 ### 👾 BIO
 
-- 🔭 I'm currently studying **ML & DL** @ [**MADE**](https://data.mail.ru/pages/about/)
+- 🔭 I'm currently studying **ML & DL** @ [**MADE**](https://data.vk.company/pages/about/)
 - 📫 Ping me about **`.py`**, **`.java`** and **DS**
 
 ---
