@@ -1,16 +1,18 @@
 ## 🌱 About Me
 
 
-Software Engineer student at [**ITIS KFU**](https://kpfu.ru/itis/) with passion for ML and Analytics, Python and Java programming. Fascinated by everything that's DS related. Proudly from Kazan, Russia.
+Software Engineer student at [**ITIS KFU**](https://kpfu.ru/itis/) with passion for ML, Python and Java. Fascinated by everything that's DS related. Proudly from Kazan, Russia.
+
+---
 
 ### 🎓 Education
 
 #### Data Science & Software Engineering
 
 - 🙋🏻‍♂️ Currently go to [**Academy MADE VK**](https://data.vk.company/pages/about/)
+- 👨🏻‍💻 DS Assistant @ [**SberUniversity**](https://sberuniversity.ru)
 - 👨‍🏫 Third-year bachelor in software engineering @ [**ITIS Kazan Federal University**](https://kpfu.ru/itis/)
 - ⚙ `.java` development using **Spring Framework & Java EE** @ [**ITIS Java Laboratory**](https://vk.com/itis_java_lab/)
-
 
 ### 👾 BIO
 
