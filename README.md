@@ -9,9 +9,9 @@ Software Engineer student at [**ITIS KFU**](https://kpfu.ru/itis/) with passion 
 
 #### Data Science & Software Engineering
 
-- 🙋🏻‍♂️ Currently go to [**Academy MADE VK**](https://data.vk.company/pages/about/)
-- 👨🏻‍💻 DS Assistant @ [**SberUniversity**](https://sberuniversity.ru)
-- 👨‍🏫 Third-year bachelor in software engineering @ [**ITIS Kazan Federal University**](https://kpfu.ru/itis/)
+- 👨🏻‍💻 Currently go to [**Academy MADE VK**](https://data.vk.company/pages/about/)
+- 👨‍🏫 DS Assistant @ [**SberUniversity**](https://sberuniversity.ru)
+- 🙋🏻‍♂️ Third-year bachelor in software engineering @ [**ITIS Kazan Federal University**](https://kpfu.ru/itis/)
 - ⚙ `.java` development using **Spring Framework & Java EE** @ [**ITIS Java Laboratory**](https://vk.com/itis_java_lab/)
 
 ### 👾 BIO
