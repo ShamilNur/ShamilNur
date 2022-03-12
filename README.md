@@ -8,7 +8,7 @@ Software Engineer student at [**ITIS KFU**](https://kpfu.ru/itis/) with passion 
 ### 🦾 Work
 
 - <a href="https://vk.company/en/company/about/" target="_blank"><img src='https://user-images.githubusercontent.com/62756126/157912247-4e13d707-6e48-4a9e-a6f9-7b63a2e019ac.png' width=18></a> Now I'm working at [**VK**](https://vk.company/en/company/about/) as an ML Engineer in Antispam.
-- <a href="https://vk.company/en/company/about/" target="_blank"><img src='https://user-images.githubusercontent.com/62756126/157937204-f5842200-d088-4d9a-86af-4781a7b4f730.png' width=18></a> DS Assistant at [**SberUniversity**](https://sberuniversity.ru) <a href="https://sberuniversity.ru" target="_blank"><img src='https://sberuniversity.ru/local/templates/main/src/assets/img/sber-logo-ru-light.svg' width=60></a> .
+- <a href="https://vk.company/en/company/about/" target="_blank"><img src='https://user-images.githubusercontent.com/62756126/158031414-a574f658-7cd7-4ab6-9cb7-1b67b92bc1bd.png' width=18></a> DS Assistant at [**SberUniversity**](https://sberuniversity.ru) <a href="https://sberuniversity.ru" target="_blank"><img src='https://sberuniversity.ru/local/templates/main/src/assets/img/sber-logo-ru-light.svg' width=60></a> .
 
 ### 🎓 Education
 
