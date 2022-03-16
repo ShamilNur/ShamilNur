@@ -25,7 +25,7 @@ Software Engineer student at [**ITIS KFU**](https://kpfu.ru/itis/) with passion 
 
 ### 📧 Get in Touch
 
-[![My Telegram](https://img.shields.io/badge/telegram-white?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nshamil) 
+[![My Telegram](https://img.shields.io/badge/telegram-white?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sfnurkaev) 
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfnurkaev)
 
 ### 📚 Looking for my CV? E-Mail me!
