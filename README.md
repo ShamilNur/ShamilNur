@@ -1,6 +1,6 @@
 ## 🌱 About Me
 
-I'm a Software Engineer with a strong background in ML, Python, and Java, and a keen interest in Back-end. I hail from Kazan, Russia, and have studied at [**ITIS KFU**](https://kpfu.ru/itis/).
+I'm a Software Engineer with a background in ML, Python, and Java, and a keen interest in Back-end. I hail from Kazan, Russia, and have studied at [**ITIS KFU**](https://kpfu.ru/itis/).
 
 ---
 
